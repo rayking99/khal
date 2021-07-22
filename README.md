@@ -1,3 +1,3 @@
 # khal
 
-https://gh-pages.dj789ijffwhrq.amplifyapp.com
+https://khalish.dj789ijffwhrq.amplifyapp.com
