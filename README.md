@@ -1,3 +1,3 @@
 # khal
 
-http://rayking99.github.io/
+http://rayking99.github.io/khal
