@@ -1,3 +1,3 @@
 # khal
 
-http://rayking99.github.io/khal
+https://gh-pages.dj789ijffwhrq.amplifyapp.com
